@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<substances>
+<name>Crude Oil</name>
+<name>Fuel Gas</name>
+<name>Fuel Oil</name>
+<name>Hydrocarbons</name>
+<name>Liquefied Gas</name>
+<name>LPG</name>
+<name>Oil</name>
+<name>Polychlorobiphenyls</name>
+<name>Natural Gas</name>
+<name>Heavy Fuel Oil</name>
+<name>Pesticide</name>
+<name>Heating Gas</name>
+<name>Solvent</name>
+<name>Solvents</name>
+<name>Diesel</name>
+<name>Waste Oil</name>
+<name>NPK Fertilizer</name>
+<name>Gasoline</name>
+<name>Gun Powder</name>
+<name>Dynamite</name>
+<name>Naphta</name>
+<name>Carbon Sulphide</name>
+<name>Carbon Monoxide</name>
+<name>Herbicides</name>
+<name>Spirit</name>
+<name>Kerosine</name>
+<name>Nitroglycerine</name>
+<name>Plastic powder</name>
+<name>Thermal oil</name>
+<name>Uranium</name>
+<name>Furnace Gas</name>
+<name>Hydrogen Fluoride</name>
+<name>Tar Oil</name>
+<name>Benzene</name>
+<name>Benzenamine</name>
+<name>Phenol</name>
+<name>1,4-Benzenedicarbonyl dichloride</name>
+<name>1,4-Benzenedicarboxylic acid</name>
+<name>Ethanol</name>
+<name>Cyclohexene</name>
+<name>Benzenemethanamine</name>
+<name>Benzonitrile</name>
+<name>Benzenemethanol</name>
+<name>Benzaldehyde</name>
+<name>3-Pyridinecarbonitrile</name>
+<name>Hydrazine</name>
+<name>Nitric acid</name>
+<name>Nitrogen oxide</name>
+<name>Sulfur chloride</name>
+<name>Silane</name>
+<name>Phosphoric trichloride</name>
+<name>Phosphorane</name>
+<name>Sulfuric acid</name>
+<name>Oxirane</name>
+<name>Hydrobromic acid</name>
+<name>Hydroxylamine</name>
+<name>Sulfuric acid</name>
+<name>Boric acid</name>
+<name>Calcium chloride</name>
+<name>Chlorine oxide</name>
+<name>Uranium fluoride</name>
+<name>Phosphorous acid</name>
+<name>2-Propenal</name>
+<name>1,4-Benzenediamine</name>
+<name>Benzenamine</name>
+<name>Cyclohexanamine</name>
+<name>Octanal</name>
+<name>Silicic acid</name>
+<name>Nitrogen oxide</name>
+<name>Phosphoric acid</name>
+<name>Nitric acid</name>
+<name>Sulfurous acid</name>
+<name>Lubricating oils</name>
+<name>Sulfurous acid</name>
+<name>Butanamide</name>
+<name>Guanidine</name>
+<name>Carbonic acid</name>
+<name>2-Propanol</name>
+<name>Ethanol</name>
+<name>1,2,3-Propanetriol</name>
+<name>Morpholine</name>
+<name>1-Butanamine</name>
+<name>Glycine</name>
+<name>Acetic acid</name>
+<name>2-Propenoic acid</name>
+<name>Hexanedioic acid</name>
+<name>Benzenamine</name>
+<name>Formamide</name>
+<name>Benzeneacetic acid</name>
+<name>Acetamide</name>
+<name>Metaphosphoric acid</name>
+<name>Barium chloride</name>
+<name>Nitric acid</name>
+<name>Benzenesulfonic acid</name>
+<name>2-Propenal</name>
+<name>Ethanol</name>
+<name>1-Hexanol</name>
+<name>Benzaldehyde</name>
+<name>Benzenamine</name>
+<name>Butanedioic acid</name>
+<name>Nitric acid</name>
+<name>1-Propene</name>
+<name>1,4-Cyclohexanedimethanol</name>
+<name>Propanoic acid</name>
+<name>Acetic acid</name>
+<name>Butanoic acid</name>
+<name>Propanedioic acid</name>
+<name>9-Octadecenoic acid</name>
+<name>2-Butenedioic acid</name>
+<name>Hexanedioic acid</name>
+<name>Acetamide</name>
+<name>Nitrogen oxide</name>
+<name>Sulfur chloride</name>
+<name>Chromic acid</name>
+<name>6-Octen-1-ol</name>
+<name>6-Octenal</name>
+<name>1,4-Benzenediamine</name>
+<name>Butanedioic acid</name>
+<name>Carbonochloridic acid</name>
+<name>Decanedioic acid</name>
+<name>Oxirane</name>
+<name>Ethane</name>
+<name>Butane</name>
+<name>toluene</name>
+<name>petrol</name>
+<name>naphtha</name>
+<name>cyclohexane</name>
+<name>1-Butene</name>
+<name>methanol</name>
+<name>carbon disulphide</name>
+<name>methanethiol</name>
+<name>ethylene</name>
+<name>propylene</name>
+<name>hydrogen sulphide</name>
+<name>1,3-buthadyene</name>
+<name>benzene</name>
+<name>Carbamic acid</name>
+<name>Carbonic acid</name>
+<name>2-Butene</name>
+<name>2-Propenal</name>
+<name>1-Propene</name>
+<name>propene</name>
+<name>Ethane</name>
+<name>Ethanol</name>
+<name>2-Propenenitrile</name>
+<name>1,2-Ethanediamine</name>
+<name>2-Propen-1-ol</name>
+<name>2-Propyn-1-ol</name>
+<name>Ethylene gycol</name>
+<name>Ethanedial</name>
+<name>Ethene</name>
+<name>Acetaldehyde</name>
+<name>Formic acid</name>
+<name>2,4-Pentanediol</name>
+<name>Methanaminium, 1-carboxy-N,N,N-trimethyl-, inner salt</name>
+<name>2-Pentanamine, 2,4,4-trimethyl-</name>
+<name>Disiloxane, hexamethyl-</name>
+<name>1-Octadecanaminium, N,N-dimethyl-N-octadecyl-, chloride</name>
+<name>2-Butenal, 3-methyl-</name>
+<name>1,3-Butanediol</name>
+<name>Butanoic acid</name>
+<name>2-Propanol, 1-methoxy-</name>
+<name>Aluminum, trioctyl-</name>
+<name>Octadecanoic acid, lead(2+) salt</name>
+<name>Ethanol, 2-(dimethylamino)-</name>
+<name>Propane, 1-nitro-</name>
+<name>Acetic acid ethenyl ester</name>
+<name>2-Pentanone, 4-methyl-</name>
+<name>2-Pentanol, 4-methyl-</name>
+<name>2-Propanamine, N-(1-methylethyl)-</name>
+<name>Propane, 2,2'-oxybis-</name>
+<name>Acetic acid, 1-methylethyl ester</name>
+<name>1-Propen-2-ol, acetate</name>
+<name>Acetic acid, anhydride</name>
+<name>2,5-Furandione</name>
+<name>1,3-Dioxolan-2-one, 4-methyl-</name>
+<name>Benzene, 1,3-dimethyl-</name>
+<name>Phenol, 3-methyl-</name>
+<name>Benzenamine, 3-methyl-</name>
+<name>1,3-Benzenediamine</name>
+<name>1,3-Benzenediol</name>
+<name>Propanedioic acid, dimethyl ester</name>
+<name>2-Propanol, 1-methoxy-, acetate</name>
+<name>Phenol, 3,5-dimethyl-</name>
+<name>1,3,5-Triazine, 2,4,6-trichloro-</name>
+<name>1,3,5-Triazine-2,4,6-triamine</name>
+<name>1,3,5-Triazine-2,4,6(1H,3H,5H)-trione</name>
+<name>4-Heptanone, 2,6-dimethyl-</name>
+<name>Benzene, methyl-</name>
+<name>Benzene, chloro-</name>
+<name>Cyclohexanamine</name>
+<name>Cyclohexanol</name>
+<name>Cyclohexanone</name>
+<name>Phenol</name>
+<name>Morpholine, 4-methyl-</name>
+<name>Pyridine, 2-methyl-</name>
+<name>Propane, 1-(ethenyloxy)-2-methyl-</name>
+<name>1,3-Propanediamine, N,N-dimethyl-</name>
+<name>Acetic acid, propyl ester</name>
+<name>Pentane</name>
+<name>1-Pentene</name>
+<name>Butane, 1-chloro-</name>
+<name>Propane, 1-bromo-3-chloro-</name>
+<name>1-Butanamine</name>
+<name>Propanenitrile, 3-hydroxy-</name>
+<name>Ethanol, 2-(methylamino)-</name>
+<name>Ethanol, 2-methoxy-</name>
+<name>Ethanamine, N-ethyl-</name>
+<name>Ethene, ethoxy-</name>
+<name>Formic acid, ethyl ester</name>
+<name>Furan, tetrahydro-</name>
+<name>Furan</name>
+<name>Thiophene, tetrahydro-</name>
+<name>2,5-Hexanediol, 2,5-dimethyl-</name>
+<name>Peroxide, bis(1,1-dimethylethyl)</name>
+<name>2-Hexanone, 5-methyl-</name>
+<name>Butanedioic acid</name>
+<name>2-Butenedioic acid (2Z)-</name>
+<name>2-Butenedioic acid (2E)-</name>
+<name>Acetic acid, 2-methylpropyl ester</name>
+<name>1,2-Hydrazinedicarboxamide</name>
+<name>Glycine, N-methyl-N-[(9Z)-1-oxo-9-octadecenyl]-</name>
+<name>Tetradecanoic acid, 1-methylethyl ester</name>
+<name>Octadecanamide, N,N'-1,2-ethanediylbis-</name>
+<name>Hexanedioic acid, dihexyl ester</name>
+<name>Decanoic acid, methyl ester</name>
+<name>2,4-Hexadienoic acid, (2E,4E)-</name>
+<name>Hexane</name>
+<name>Pentanal</name>
+<name>1,4-Butanediol</name>
+<name>2-Butene-1,4-diol</name>
+<name>2-Butyne-1,4-diol</name>
+<name>Ethanol, 2-ethoxy-</name>
+<name>Cyclohexane</name>
+<name>Piperazine</name>
+<name>Pyridine</name>
+<name>1,3,5-Trioxane</name>
+<name>Piperidine</name>
+<name>Morpholine</name>
+<name>5-Hepten-2-one, 6-methyl-</name>
+<name>Pentanedioic acid</name>
+<name>2-Propanol, 1,1'-iminobis-</name>
+<name>2-Propanol, 1,1'-oxybis-</name>
+<name>1-Naphthalenesulfonic acid, 2-[(2-hydroxy-1-naphthalenyl)azo]-, barium salt (2:1)</name>
+<name>Zinc, bis[O,O-bis(tetrapropylenephenyl) phosphorodithioato-kappaS,kappaS']-</name>
+<name>1,3-Isobenzofurandione, tetrahydromethyl-</name>
+<name>Sodium hypochlorite phosphate (Na13(ClO)(PO4)4)</name>
+<name>Octanoic acid, methyl ester</name>
+<name>Heptanoic acid</name>
+<name>Ethanol, 2-ethoxy-, acetate</name>
+<name>Decanedioic acid</name>
+<name>1-Hexanol</name>
+<name>1,5-Pentanediol</name>
+<name>Pentanedial</name>
+<name>Butane, 1-isocyanato-</name>
+<name>Diethylenetriamine</name>
+<name>Ethanol, 2-[(2-aminoethyl)amino]-</name>
+<name>Ethanol, 2,2'-iminobis-</name>
+<name>Ethanol, 2,2'-oxybis-</name>
+<name>Ethanol, 2,2'-thiobis-</name>
+<name>Octane</name>
+<name>1-Octene</name>
+<name>Hexanedinitrile</name>
+<name>Heptanal</name>
+<name>Ethanol, 2-butoxy-</name>
+<name>Ethanol, 2-(2-methoxyethoxy)-</name>
+<name>Dodecanoic acid, methyl ester</name>
+<name>Nonane</name>
+<name>Octane, 1-chloro-</name>
+<name>1-Octanamine</name>
+<name>1-Octanol</name>
+<name>Ethanol, 2-(2-ethoxyethoxy)-</name>
+<name>Ethane, 1,1'-[methylenebis(oxy)]bis[2-chloro-</name>
+<name>1-Butanamine, N-butyl-</name>
+<name>Diglyme</name>
+<name>Potassium zinc chromate hydroxide (KZn2(CrO4)2(OH))</name>
+<name>Ammonium vanadium oxide</name>
+<name>Tungstate (W12(OH)2O4010-), decaammonium</name>
+<name>Perboric acid, sodium salt</name>
+<name>Decanoic acid, ester with 2-ethyl-2-(hydroxymethyl)-1,3-propanediol octanoate</name>
+<name>Xanthan gum</name>
+<name>Propanoic acid, 3-hydroxy-2,2-dimethyl-, 3-hydroxy-2,2-dimethylpropyl ester</name>
+<name>Aluminum, tributyl-</name>
+<name>Pentanedioic acid, dimethyl ester</name>
+<name>1-Hexadecanaminium, N,N,N-trimethyl-, chloride</name>
+<name>Nonanoic acid</name>
+<name>Ethanol, 2-butoxy-, acetate</name>
+<name>1-Dodecanamine, N,N-dimethyl-</name>
+<name>1,2-Ethanediamine, N,N'-bis(2-aminoethyl)-</name>
+<name>Ethanol, 2-(hexyloxy)-</name>
+<name>Triethylene glycol</name>
+<name>1-Decanol</name>
+<name>Ethanol, 2-(2-butoxyethoxy)-</name>
+<name>Ethanol, 2-[2-(2-methoxyethoxy)ethoxy]-</name>
+<name>Hexadecanoic acid, methyl ester</name>
+<name>1-Dodecene</name>
+<name>1-Dodecanol</name>
+<name>1-Dodecanethiol</name>
+<name>1,2-Ethanediamine, N-(2-aminoethyl)-N'-[2-[(2-aminoethyl)amino]ethyl]-</name>
+<name>Ethanol, 2,2'-[oxybis(2,1-ethanediyloxy)]bis-</name>
+<name>9-Octadecenoic acid (9Z)-, methyl ester</name>
+<name>Hexadecanoyl chloride</name>
+<name>1-Tetradecanol</name>
+<name>Octadecanoyl chloride</name>
+<name>9-Octadecenoic acid (9Z)-</name>
+<name>13-Docosenamide, (13Z)-</name>
+<name>Docosanoic acid</name>
+<name>13-Docosenoic acid, (13Z)-</name>
+<name>1-Octadecene</name>
+<name>9-Octadecen-1-amine, (9Z)-</name>
+<name>1-Octadecanol</name>
+<name>1-Tetradecene</name>
+<name>1-Decanamine, N-decyl-</name>
+<name>Benzenesulfonic acid, 3-amino-, monosodium salt</name>
+<name>4-Thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid, 3,3-dimethyl-7-oxo-6-[(phenylacetyl)amino]-(2S,5R,6R)-, monopotassium salt</name>
+<name>1-Propene</name>
+<name>Methane, oxybis-</name>
+<name>1-Propene, 2-methyl-</name>
+<name>3-Buten-2-ol, 2-methyl-</name>
+<name>3-Butyn-2-ol, 2-methyl-</name>
+<name>1,3-Propanediol, 2,2-bis(hydroxymethyl)-</name>
+<name>Phosphoric acid, triphenyl ester</name>
+<name>1,6-Octadien-3-ol, 3,7-dimethyl-, acetate</name>
+<name>Ethanol, 2-chloro-, phosphate (3:1)</name>
+<name>Cyclohexanol, 3,3,5-trimethyl-</name>
+<name>Ethene, tetrafluoro-</name>
+<name>1-Propene, 1,1,2,3,3,3-hexafluoro-</name>
+<name>Benzene, 1,1'-oxybis[2,3,4,5,6-pentabromo-</name>
+<name>9,10-Anthracenedione, 2-amino-</name>
+<name>Bis(2-ethylhexyl)phthalate</name>
+<name>1,3-Naphthalenedisulfonic acid, 6-amino-</name>
+<name>2H-3,1-Benzoxazine-2,4(1H)-dione</name>
+<name>Benzoic acid, 2-hydroxy-, phenylmethyl ester</name>
+<name>Benzene, hexachloro-</name>
+<name>Phenol, 2,4,6-tribromo-</name>
+<name>Phenol, 4,4'-methylenebis[2,6-bis(1,1-dimethylethyl)-</name>
+<name>1,2-Benzenedicarboxylic acid, ditridecyl ester</name>
+<name>Benzoic acid, 2-hydroxy-, methyl ester</name>
+<name>Phenol, 2,2'-methylenebis[6-(1,1-dimethylethyl)-4-methyl-</name>
+<name>Ethanone, 2-hydroxy-1,2-diphenyl-</name>
+<name>Methanone, diphenyl-</name>
+<name>Naphthalene, 1,2,3,4-tetrahydro-</name>
+<name>Aluminum, hydrobis(2-methylpropyl)-</name>
+<name>Benzene, 1,1'-oxybis-, tetrapropylene derivs., sulfonated, sodium salts</name>
+<name>Anthracene</name>
+<name>2-Naphthalenesulfonic acid</name>
+<name>Benzeneethanamine, 3,4-dimethoxy-</name>
+<name>Phenol, 4-chloro-2-(phenylmethyl)-</name>
+<name>Propanoic acid, 2-(2,4-dichlorophenoxy)-</name>
+<name>Benzoic acid, phenylmethyl ester</name>
+<name>1,4-Benzenedicarboxylic acid, dimethyl ester	</name>
+<name>Benzothiazole, 2,2'-dithiobis-</name>
+<name>1,2-Benzenediol</name>
+<name>Benzene, 1,2,4-trichloro-</name>
+<name>Phenol, 2,4-dichloro-</name>
+<name>Cyclopentanone</name>
+<name>Aluminum strontium oxide (Al2SrO4)</name>
+<name>Boron sodium oxide (B8Na2O13)</name>
+<name>Calcium tin oxide (CaSnO3)</name>
+<name>Calcium silicide (CaSi2)</name>
+<name>Chromium oxide (CrO2)</name>
+<name>Iron silicide (FeSi)</name>
+<name>Iron silicide (FeSi2)</name>
+<name>1H-Indene, 2,3-dihydro-1,1,2,3,3-pentamethyl-</name>
+<name>Sodium sulfide (Na2(S4))</name>
+<name>Aluminum chloride hydroxide (Al2Cl(OH)5)</name>
+<name>Lead oxide sulfate (Pb5O4(SO4))</name>
+<name>Chromium iron oxide (Cr2FeO4)</name>
+<name>Tungsten carbide (WC)</name>
+<name>Aluminum, di-mu-chlorochlorotriethyldi-</name>
+<name>Benzenesulfonic acid, 2-methyl-5-nitro-</name>
+<name>Benzene, 1-methyl-2,4-dinitro-</name>
+<name>1,3-Benzenedisulfonamide, 4-amino-6-chloro-</name>
+<name>Benzaldehyde, 4-hydroxy-3-methoxy-</name>
+<name>Ethanamine, N,N-diethyl-</name>
+<name>Benzenesulfonic acid, 4-amino-</name>
+<name>Benzenamine, N,N-dimethyl-</name>
+<name>Benzene, 1-chloro-3-nitro-</name>
+<name>1,3,5-Triazine, hexahydro-1,3,5-trinitro-</name>
+<name>Benzene, 2-chloro-1-methyl-4-nitro-</name>
+<name>Benzenamine, 2-chloro-4-nitro-</name>
+<name>1,3-Benzenedicarboxylic acid</name>
+<name>Ammonium bromide ((NH4)Br)</name>
+<name>Ammonium chloride ((NH4)Cl)</name>
+<name>Lead oxide phosphonate (Pb3O2(HPO3))</name>
+<name>Aluminum oxide silicate (Al2O(SiO4))</name>
+<name>1H-Indene-5-ethanol, 2,3-dihydro-beta,1,1,2,3,3-hexamethyl-</name>
+<name>2-Propanol, 1,1',1''-nitrilotris-</name>
+<name>1,3,5-Triazine-2,4-diamine, 6-chloro-N,N'-diethyl-</name>
+<name>Benzenamine, N-phenyl-</name>
+<name>Ethane, 1,1',1''-[methylidynetris(oxy)]tris-</name>
+<name>Phosphorous acid, triethyl ester</name>
+<name>Decanedioic acid, bis(2-ethylhexyl) ester	</name>
+<name>Ethanol, 2-phenoxy-</name>
+<name>Lead oxide sulfate (Pb4O3(SO4))</name>
+<name>Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl-</name>
+<name>Hexanal, 2-ethyl-</name>
+<name>Benzaldehyde, 4-methoxy-</name>
+<name>Phenol, 4-amino-</name>
+<name>1,4-Benzenediol</name>
+<name>1,6-Octadiene, 7-methyl-3-methylene-</name>
+<name>Propanal</name>
+<name>2-Pentanone, 4-hydroxy-4-methyl-</name>
+<name>1-Butanol, 3-methyl-</name>
+<name>2,4-Pentanedione</name>
+<name>Butanal</name>
+<name>Diazenedicarboxamide</name>
+<name>Hexanedioic acid, dioctyl ester</name>
+<name>Acetic acid, butyl ester</name>
+<name>1,4-Dioxane</name>
+<name>Chromium hydroxide sulfate (Cr(OH)(SO4))</name>
+<name>Hexanedioic acid</name>
+<name>Octanoic acid</name>
+<name>1,6-Hexanediamine</name>
+<name>Dust </name>
+<name>Tetradecanoic acid, methyl ester</name>
+<name>Octanal</name>
+<name>Ethanol, 2-(2-butoxyethoxy)-, acetate</name>
+<name>Decane</name>
+<name>1-Octadecanamine, N,N-dimethyl-</name>
+<name>1-Octadecanamine</name>
+<name>Carbon dioxide</name>
+<name>Methanamine, N-methyl-</name>
+<name>Methanol, sodium salt	</name>
+<name>Methanesulfonyl chloride</name>
+<name>1-Propanol, 2-amino-2-methyl-</name>
+<name>Phosphoric acid, 2-ethylhexyl diphenyl ester</name>
+<name>Bicyclo[2.2.1]heptan-2-ol, 1,7,7-trimethyl-, acetate, (1R,2R,4R)-rel-</name>
+<name>Lead, bis(octadecanoato)dioxotri-</name>
+<name>1,3-Propanediol, 2,2-dimethyl-</name>
+<name>Thiophene, tetrahydro-, 1,1-dioxide</name>
+<name>Phosphoric acid, tris(2-methylpropyl) ester</name>
+<name>Phosphoric acid tributyl ester</name>
+<name>Sulfuric acid, mono(2-ethylhexyl) ester, sodium salt</name>
+<name>1,3-Butadiene, 2-chloro-</name>
+<name>C.I. Pigment Red 104	</name>
+<name>Acetic acid, potassium salt</name>
+<name>Acetic acid, sodium salt</name>
+<name>Ethene, tetrachloro-</name>
+<name>Acetamide, N,N-dimethyl-</name>
+<name>Retinol, acetate</name>
+<name>Benzenesulfonamide, N-chloro-4-methyl-, sodium salt</name>
+<name>Benzenesulfonic acid, 3-nitro-, sodium salt</name>
+<name>Carbamodithioic acid, dimethyl-, sodium salt</name>
+<name>Butylated hydroxytoluene</name>
+<name>Phenol, 2,6-bis(1,1-dimethylethyl)-</name>
+<name>2-Naphthalenecarboxylic acid, 4,4'-methylenebis[3-hydroxy-</name>
+<name>Phenol, dimethyl-</name>
+<name>Benzenesulfonic acid, dimethyl-, sodium salt</name>
+<name>Benzeneacetic acid, potassium salt</name>
+<name>Aluminate (AlO21-), sodium</name>
+<name>Spinel (Mg(AlO2)2)</name>
+<name>Bentonite</name>
+<name>Mullite (Al6O5(SiO4)2)</name>
+<name>Boron oxide (B2O3)</name>
+<name>Benzonitrile, 4-(acetyloxy)-</name>
+<name>2-Propenoic acid, 1,6-hexanediyl ester</name>
+<name>Calcium hydroxide (Ca(OH)2)</name>
+<name>Calcium oxide (CaO)</name>
+<name>Cadmium oxide (CdO)</name>
+<name>Cerium oxide (CeO2)</name>
+<name>Cobalt oxide (Co3O4)</name>
+<name>Chromium hydroxide (Cr(OH)3)</name>
+<name>Chromium oxide (Cr2O3)</name>
+<name>Pyrite (FeS2)</name>
+<name>Iron oxide (Fe2O3)</name>
+<name>Magnesium hydroxide (Mg(OH)2)</name>
+<name>Magnesium oxide (MgO)</name>
+<name>Antimony oxide (Sb2O3)</name>
+<name>9,10-Anthracenedione, 2-chloro-</name>
+<name>1,2-Benzenedicarboxylic acid, dimethyl ester</name>
+<name>1,2-Benzenedicarboxylic acid, di-2-propenyl ester</name>
+<name>Potassium hydroxide (K(OH))</name>
+<name>Sodium hydroxide (Na(OH))</name>
+<name>Ethanaminium, N,N,N-trimethyl-2-[(1-oxo-2-propenyl)oxy]-, methyl sulfate</name>
+<name>Silicic acid, potassium salt</name>
+<name>Manganese oxide (MnO2)</name>
+<name>Molybdenum oxide (MoO3)</name>
+<name>Sodium sulfide (Na2S)</name>
+<name>Nickel oxide (NiO)</name>
+<name>Nitric acid, nickel(2+) salt</name>
+<name>Zinc oxide (ZnO)</name>
+<name>Zirconium oxide (ZrO2)</name>
+<name>Vanadium oxide (V2O3)</name>
+<name>Lead oxide (Pb3O4)</name>
+<name>Phosphorus oxide (P2O5)</name>
+<name>Vanadium oxide (V2O5)</name>
+<name>Phosphorus sulfide (P2S5)</name>
+<name>Zinc sulfide (ZnS)</name>
+<name>Ethanol, 2-[2-[2-(dodecyloxy)ethoxy]ethoxy]-, hydrogen sulfate, sodium salt</name>
+<name>Molybdenum sulfide (MoS2)</name>
+<name>Manganese oxide (Mn3O4)</name>
+<name>Lead oxide (PbO)</name>
+<name>Copper oxide (CuO)</name>
+<name>Copper oxide (Cu2O)</name>
+<name>Cobalt sulfide (CoS)</name>
+<name>Hematite (Fe2O3)</name>
+<name>Iron oxide (Fe3O4)</name>
+<name>Anatase (TiO2)</name>
+<name>Rutile (TiO2)</name>
+<name>Boehmite (Al(OH)O)</name>
+<name>Kaolinite (Al2(OH)4(Si2O5))</name>
+<name>Phenol, methyl-</name>
+<name>4-Thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid, 3,3-dimethyl-7-oxo-6-[(phenoxyacetyl)amino]-, monopotassium salt, (2S,5R,6R)-</name>
+<name>Benzene, diethenyl-</name>
+<name>Naphthalene, methyl-</name>
+<name>Aluminatesilicate</name>
+<name>Aluminum chloride, basic	</name>
+<name>Arsenic oxide (As2O3)</name>
+<name>Phthalocyanine Green</name>
+<name>Benzenethiol, pentachloro-</name>
+<name>Benzene, dimethyl-</name>
+<name>Sodium tetraborate</name>
+<name>Phosphoric acid, tris(methylphenyl) ester</name>
+<name>Iron oxide</name>
+<name>Kaolin</name>
+<name>Copper chloride hydroxide (Cu2Cl(OH)3)</name>
+<name>Benzenesulfonic acid, hydroxy-</name>
+<name>Hydrogen</name>
+<name>Chromium oxide (CrO3)</name>
+<name>Carbon black	</name>
+<name>Ammonium hydroxide ((NH4)(OH))</name>
+<name>2-Butanone, peroxide</name>
+<name>Sorbitan, monododecanoate</name>
+<name>Sorbitan, mono-(9Z)-9-octadecenoate</name>
+<name>1-Naphthalenamine</name>
+<name>Ammonium fluoride ((NH4)(HF2))</name>
+<name>Florisil</name>
+<name>Sodium aluminosilicate</name>
+<name>Sodium sulfide (Na2(Sx))</name>
+<name>Silicic acid, sodium salt</name>
+<name>Aluminum oxide (Al2O3)</name>
+<name>C.I. Pigment Yellow 34	</name>
+<name>Manganese oxide (MnO)</name>
+<name>Silicic acid, calcium salt</name>
+<name>Antimony sulfide (Sb2S3)</name>
+<name>Lithopone</name>
+<name>Iron carbonyl (Fe(CO)5), (TB-5-11)-</name>
+<name>Titanium oxide (TiO2)</name>
+<name>2-Naphthalenol</name>
+<name>Benzene, (1-methylpropyl)-</name>
+<name>2-Butanone, 1-chloro-3,3-dimethyl-</name>
+<name>Phosphonic acid</name>
+<name>Phosphoric acid, zinc salt (2:1)</name>
+<name>Zinc, bis(dibutylcarbamodithioato-kappaS,kappaS')-, (T-4)-</name>
+<name>Carbamodithioic acid, dibutyl-, sodium salt</name>
+<name>Ferrate(4-), hexakis(cyano-kappaC)-, tetrasodium, (OC-6-11)-</name>
+<name>2-Propanol, 1-chloro-, phosphate (3:1)</name>
+<name>2-Propanol, 1,3-dichloro-, phosphate (3:1)</name>
+<name>Sulfuric acid, titanium(4+) salt (2:1)</name>
+<name>Benzenethiol, 2-amino-</name>
+<name>Thioperoxydicarbonic diamide ([(H2N)C(S)]2S2), tetramethyl-</name>
+<name>Zinc, bis(dimethylcarbamodithioato-kappaS,kappaS')-, (T-4)-</name>
+<name>Propanoic acid, sodium salt</name>
+<name>1,3,5-Triazine, 2,4-dichloro-6-(methylthio)-</name>
+<name>Aluminate(3-), hexafluoro-, trisodium, (OC-6-11)-</name>
+<name>Phosphoric acid, calcium sodium salt (1:1:1)</name>
+<name>Titanium, oxo[sulfato(2-)-kappaO,kappaO']-</name>
+<name>Triphosphoric acid, pentapotassium salt</name>
+<name>Silicic acid (H2Si2O5), disodium salt</name>
+<name>Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-, disodium salt</name>
+<name>Sulfuric acid, monododecyl ester, compd. with 2,2',2''-nitrilotris[ethanol] (1:1)</name>
+<name>Ferrate(4-), hexakis(cyano-kappaC)-, tetrapotassium, (OC-6-11)-</name>
+<name>Glycine, N,N-bis[2-[bis(carboxymethyl)amino]ethyl]-, pentasodium salt</name>
+<name>Acetic acid, phenylmethyl ester</name>
+<name>Benzeneacetonitrile</name>
+<name>1-Piperazineethanamine</name>
+<name>Phenol, 4-(1,1,3,3-tetramethylbutyl)-</name>
+<name>2-Propenoic acid, ethyl ester</name>
+<name>Carbonodithioic acid, O-(1-methylethyl) ester, sodium salt</name>
+<name>Urea, N,N'-bis(hydroxymethyl)-</name>
+<name>Tannins	</name>
+<name>Borate(1-), tetrafluoro-, potassium</name>
+<name>3,5,9-Undecatrien-2-one, 6,10-dimethyl-</name>
+<name>2-Propenoic acid, butyl ester</name>
+<name>Ethanol, 2-amino-</name>
+<name>Formic acid, sodium salt</name>
+<name>Acetic acid ethyl ester</name>
+<name>Butanoic acid, 3-oxo-, ethyl ester</name>
+<name>2-Butenedioic acid (2Z)-, bis(2-ethylhexyl) ester</name>
+<name>2,5,8,10-Tetraoxatridec-12-enoic acid, 9-oxo-, 2-propenyl ester</name>
+<name>Sulfuric acid, monooctyl ester, sodium salt</name>
+<name>L-Glutamic acid, monosodium salt</name>
+<name>Hexanoic acid</name>
+<name>Glycine, N-(carboxymethyl)-</name>
+<name>Dodecanamide, N-(2-hydroxyethyl)-</name>
+<name>Heptane</name>
+<name>1-Propanamine, N-propyl-</name>
+<name>2-Propenoic acid, 2-methyl-, dodecyl ester</name>
+<name>Hexadecanoic acid, 1-methylethyl ester</name>
+<name>Dodecanoic acid</name>
+<name>Ethanol, 2-[2-(2-butoxyethoxy)ethoxy]-</name>
+<name>1,6-Hexanediamine, N-(6-aminohexyl)-</name>
+<name>Sodium cyanide (Na(CN))</name>
+<name>Zinc, bis(diethylcarbamodithioato-kappaS,kappaS')-, (T-4)-</name>
+<name>Carbonic acid monosodium salt</name>
+<name>Ethanedioic acid</name>
+<name>Cristobalite (SiO2)</name>
+<name>Zirconium hydroxide (Zr(OH)4), (T-4)-</name>
+<name>Fluorite (CaF2)</name>
+<name>Stannane, tetrabutyl-</name>
+<name>Copper, [29H,31H-phthalocyaninato(2-)-kappaN29,kappaN30,kappaN31,kappaN32]-, (SP-4-1)-</name>
+<name>1,3-Benzenedimethanamine</name>
+<name>Talc (Mg3H2(SiO3)4)</name>
+<name>Quartz (SiO2)</name>
+<name>Benzenamine, 4-(2,4-dichlorophenoxy)-</name>
+<name>2(3H)-Benzothiazolethione</name>
+<name>Methanesulfinic acid, hydroxy-, monosodium salt</name>
+<name>1,3-Benzenedisulfonic acid, 4,5-dihydroxy-, disodium salt</name>
+<name>Hexanoic acid, 2-ethyl-</name>
+<name>Methane, trimethoxy-</name>
+<name>Cyclohexanol, 5-methyl-2-(1-methylethyl)-</name>
+<name>Zircon (Zr(SiO4))</name>
+<name>Benzene, 1,4-dimethoxy-</name>
+<name>Acetyl hexamethyl tetralin</name>
+<name>Cryolite (Na3(AlF6))</name>
+<name>Propanenitrile, 3-amino-</name>
+<name>Sulfuric acid monododecyl ester sodium salt</name>
+<name>Potassium cyanide (K(CN))</name>
+<name>Aziridine</name>
+<name>Benzeneacetic acid, alpha-oxo-, methyl ester</name>
+<name>1-Propanesulfonic acid, 2-methyl-2-[(1-oxo-2-propenyl)amino]-</name>
+<name>Calcium ammonium nitrate</name>
+<name>Urea, N'-(3-chloro-4-methylphenyl)-N,N-dimethyl-</name>
+<name>8-Oxa-3,5-dithia-4-stannatetradecanoic acid, 10-ethyl-4,4-dioctyl-7-oxo-, 2-ethylhexyl ester</name>
+<name>3,6,9,12-Tetraoxahexadecan-1-ol</name>
+<name>Benzenamine, 4-ethoxy-</name>
+<name>Cyanamide, calcium salt (1:1)</name>
+<name>2-Propene-1-sulfonic acid, 2-methyl-, sodium salt</name>
+<name>Ethanesulfonic acid, 2-hydroxy-, monosodium salt</name>
+<name>2-Propenoic acid, 2-ethyl-2-[[(1-oxo-2-propenyl)oxy]methyl]-1,3-propanediyl ester</name>
+<name>Carbonic acid disodium salt, compd. with hydrogen peroxide (H2O2) (2:3)</name>
+<name>Benzeneacetic acid, alpha-methyl-4-(2-methylpropyl)-</name>
+<name>Cyclohexanethiol</name>
+<name>Phenol, 4-chloro-2-methyl-</name>
+<name>Ferrate(1-), [[N,N'-1,2-ethanediylbis[N-[(carboxy-kappaO)methyl]glycinato-kappaN,kappaO]](4-)]-, sodium, (OC-6-21)-</name>
+<name>Phosphonic acid, [[(phosphonomethyl)imino]bis[2,1-ethanediylnitrilobis(methylene)]]tetrakis-</name>
+<name>1-Propanol, 2-methoxy-</name>
+<name>Guanidine, N,N'''-1,6-hexanediylbis[N'-cyano-</name>
+<name>Octadecanoic acid, calcium salt</name>
+<name>Benzenesulfonic acid, 2,2'-(1,2-ethenediyl)bis[5-[[4-(4-morpholinyl)-6-(phenylamino)-1,3,5-triazin-2-yl]amino]-, disodium salt</name>
+<name>Bicyclo[2.2.1]hept-2-ene, 5-ethylidene-</name>
+<name>Charcoal</name>
+<name>Carbonic acid, strontium salt (1:1)</name>
+<name>Propane, 2-methoxy-2-methyl-</name>
+<name>Dolomite (CaMg(CO3)2)</name>
+<name>1-Dodecanamine, N,N-dimethyl-, N-oxide</name>
+<name>Benzenesulfonic acid, 2,2'-(1,2-ethenediyl)bis[5-[[4-[bis(2-hydroxyethyl)amino]-6-[(4-sulfophenyl)amino]-1,3,5-triazin-2-yl]amino]-, tetrasodium salt</name>
+<name>1,3-Butadiene, 2,3-dichloro-</name>
+<name>1,5-Naphthalenedisulfonic acid, disodium salt</name>
+<name>2-Propenoic acid, 1,1-dimethylethyl ester</name>
+<name>Sodium sulfide (Na(SH))</name>
+<name>Disulfurous acid, dipotassium salt</name>
+<name>Oxirane, 2,2'-[(1-methylethylidene)bis(4,1-phenyleneoxymethylene)]bis-</name>
+<name>Silicate(2-), hexafluoro-, dipotassium</name>
+<name>Borate(1-), tetrafluoro-, hydrogen</name>
+<name>1,2-Benzenedicarboxylic acid, 2,2-dimethyl-1-(1-methylethyl)-3-(2-methyl-1-oxopropoxy)propyl phenylmethyl ester</name>
+<name>Octanoic acid, 2,6-dibromo-4-cyanophenyl ester</name>
+<name>Silicate(2-), hexafluoro-, disodium</name>
+<name>Titanate(2-), hexafluoro-, dipotassium, (OC-6-11)-</name>
+<name>Borate(1-), tetrahydro-, sodium</name>
+<name>Silicate(2-), hexafluoro-, magnesium (1:1)</name>
+<name>Silicate(2-), hexafluoro-, dihydrogen</name>
+<name>3(2H)-Pyridazinone, 5-amino-4-chloro-2-phenyl-</name>
+<name>Triacetone triperoxide</name>
+<name>2,7-Naphthalenedisulfonic acid, 4-amino-5-hydroxy-3,6-bis[[4-[[2-(sulfooxy)ethyl]sulfonyl]phenyl]azo]-, tetrasodium salt</name>
+<name>Barium hydroxide (Ba(OH)2)</name>
+<name>Cyclododecanol</name>
+<name>Phosphoramidothioic acid, O,O-dimethyl ester</name>
+<name>Propanenitrile, 3-(dimethylamino)-</name>
+<name>Propanoic acid, ammonium salt</name>
+<name>Methanesulfinic acid, aminoimino-</name>
+<name>Cyclohexanamine, 4,4'-methylenebis-</name>
+<name>Plumbane, diethyldimethyl-</name>
+<name>Thiocyanic acid, ammonium salt</name>
+<name>Propanoic acid, 2-chloro-, methyl ester</name>
+<name>Benzenesulfonic acid, 4-chloro-3-nitro-, sodium salt</name>
+<name>1H-Isoindole-1,3(2H)-dione, 2-(cyclohexylthio)-</name>
+<name>1-Naphthalenesulfonic acid, 3-hydroxy-4-[(1-hydroxy-2-naphthalenyl)azo]-7-nitro-, monosodium salt</name>
+<name>2,4,6,8,3,5,7-Benzotetraoxatriplumbacycloundecin-3,5,7-triylidene, 1,9-dihydro-1,9-dioxo-</name>
+<name>Methanone, (2-amino-5-chlorophenyl)phenyl-, oxime</name>
+<name>Silane, trichloro(2-methylpropyl)-</name>
+<name>Benzene, 1-(1-methylethyl)-4-nitro-</name>
+<name>Urea, N,N'-bis(trimethylsilyl)-</name>
+<name>Benzene, 2,4-dichloro-1-(4-nitrophenoxy)-</name>
+<name>Methanone, [2-hydroxy-4-(octyloxy)phenyl]phenyl-</name>
+<name>alpha-L-xylo-2-Hexulofuranosonic acid, 2,3:4,6-bis-O-(1-methylethylidene)-</name>
+<name>1-Octen-3-ol, 3,7-dimethyl-</name>
+<name>7-Octen-2-ol, 2,6-dimethyl-</name>
+<name>2-Imidazolidinone, 4,5-dihydroxy-1,3-bis(hydroxymethyl)-</name>
+<name>1,3-Benzenedicarbonitrile, 2,4,5,6-tetrachloro-</name>
+<name>1,2,3-Propanetricarboxylic acid, 2-hydroxy-, monosodium salt</name>
+<name>1,3,5-Triazine-2,4-diamine, 6-chloro-N-ethyl-N'-(1-methylethyl)-</name>
+<name>1,3-Isobenzofurandione, hexahydro-5-methyl-</name>
+<name>Octanoic acid, sodium salt</name>
+<name>2-Cyclohexen-1-one, 2,5,6-trimethyl-</name>
+<name>Phosphonic acid, [3-[(hydroxymethyl)amino]-3-oxopropyl]-, dimethyl ester</name>
+<name>Dodecanoic acid, 2-ethylhexyl ester</name>
+<name>Butanamide, N-methyl-3-oxo-</name>
+<name>Iron hydroxide oxide (Fe(OH)O)</name>
+<name>Copper hydroxide (Cu(OH)2)</name>
+<name>Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, octadecyl ester</name>
+<name>Naphthalene, 1,2,3,4-tetrahydro-1,1,2,4,4,7-hexamethyl-</name>
+<name>Benzene, 2-chloro-1,4-dimethoxy-</name>
+<name>Ethanol, 2-(methylamino)-, compd. with sulfur dioxide</name>
+<name>Barium sulfide (BaS)</name>
+<name>Ferrate(1-), [[N,N'-1,2-ethanediylbis[N-[(carboxy-kappaO)methyl]glycinato-kappaN,kappaO]](4-)]-, ammonium, (OC-6-21)-</name>
+<name>Bicyclo[2.2.1]hept-5-ene-2,3-dimethanol, 1,4,5,6,7,7-hexachloro-</name>
+<name>Aluminum hydroxide (Al(OH)3)</name>
+<name>Benzene, 1-(dimethoxymethyl)-4-methoxy-</name>
+<name>Phosphonic acid, [[(phosphonomethyl)imino]bis[2,1-ethanediylnitrilobis(methylene)]]tetrakis-, sodium salt</name>
+<name>Zinc, bis[O,O-bis(1,3-dimethylbutyl) phosphorodithioato-kappaS,kappaS']-, (T-4)-</name>
+<name>Sulfuric acid, monododecyl ester, ammonium salt</name>
+<name>L-Phenylalanine, L-alpha-aspartyl-, 2-methyl ester</name>
+<name>2,5,8,11-Tetraoxatridecan-13-ol</name>
+<name>Pyridine, 2,3,5,6-tetrachloro-</name>
+<name>4-Piperidinol, 2,2,6,6-tetramethyl-</name>
+<name>Phenol, 2-(1,1-dimethylethyl)-4-methyl-</name>
+<name>Phenol, 2,3,6-trimethyl-</name>
+<name>1-Decanol, 2-hexyl-</name>
+<name>1-Butene, 2,3,4-trichloro-</name>
+<name>1,2,3-Benzotriazin-4(3H)-one, 3-(hydroxymethyl)-</name>
+<name>Undecanoic acid, 11-amino-</name>
+<name>2-Propenoic acid, 2-(dimethylamino)ethyl ester</name>
+<name>Phenol, 2-(2H-benzotriazol-2-yl)-4-methyl-</name>
+<name>Carbonochloridic acid, 2-ethylhexyl ester</name>
+<name>1,3,5-Triazine-2,4,6(1H,3H,5H)-trione, 1,3,5-tris(oxiranylmethyl)-</name>
+<name>Benzenamine, 2-ethyl-6-methyl-</name>
+<name>Methylenedioxypyrovalerone</name>
+<name>2,4-Hexadienoic acid, potassium salt, (2E,4E)-</name>
+<name>Propanol, [(1-methyl-1,2-ethanediyl)bis(oxy)]bis-</name>
+<name>2(3H)-Benzothiazolethione, sodium salt</name>
+<name>Ethanol, 2-[(4-aminophenyl)sulfonyl]-, hydrogen sulfate (ester)</name>
+<name>2-Propene-1-sulfonic acid, sodium salt</name>
+<name>Benzene, ethenylmethyl-</name>
+<name>1H-2,1,3-Benzothiadiazin-4(3H)-one, 3-(1-methylethyl)-, 2,2-dioxide</name>
+<name>Acetic acid, mercapto-, isooctyl ester</name>
+<name>Isooctanoic acid</name>
+<name>tert-Dodecanethiol</name>
+<name>Phenol, nonyl-</name>
+<name>Benzenesulfonic acid, dodecyl-, sodium salt</name>
+<name>Benzenesulfonic acid, oxybis[dodecyl-, disodium salt</name>
+<name>Butene</name>
+<name>Pentene, 2,4,4-trimethyl-</name>
+<name>Benzene, chloromethyl-</name>
+<name>1-Butanol, 3-methoxy-</name>
+<name>Phosphorochloridothioic acid, O,O-dimethyl ester</name>
+<name>Phosphorochloridothioic acid, O,O-diethyl ester</name>
+<name>Hexene</name>
+<name>Propanol, oxybis-</name>
+<name>Propanoic acid, 2-methyl-, monoester with 2,2,4-trimethyl-1,3-pentanediol</name>
+<name>Benzene, tetrapropylene-</name>
+<name>Silane, trimethoxy[3-(oxiranylmethoxy)propyl]-</name>
+<name>Silane, (3-chloropropyl)trimethoxy-</name>
+<name>Benzene, methyldinitro-</name>
+<name>Benzenesulfonic acid, dimethyl-</name>
+<name>Isodecanol</name>
+<name>Heptene</name>
+<name>Benzene, diethyl-</name>
+<name>Benzenediamine, ar-methyl-</name>
+<name>2,5-Furandione, 3-(dodecenyl)dihydro-</name>
+<name>Octene</name>
+<name>Propanol, [2-(2-methoxymethylethoxy)methylethoxy]-</name>
+<name>Silane, trichloro(3-chloropropyl)-</name>
+<name>Sulfur fluoride (SF6), (OC-6-11)-</name>
+<name>Phosphorous acid, diisodecyl phenyl ester</name>
+<name>2-Propenoic acid, monoester with 1,2-propanediol</name>
+<name>1,6-Hexanediamine, C,C,C-trimethyl-</name>
+<name>Cyclododecane, hexabromo-</name>
+<name>Carbonic acid, compd. with hydrazinecarboximidamide (1:1)</name>
+<name>carbon monoxide</name>
+<name>hydrogen cyanide</name>
+<name>carbon dioxide</name>
+<name>ammonia	</name>
+<name>ethylene </name>
+<name>Ferrate(4-), hexakis(cyano-kappaC)-, ammonium iron(3+) (1:1:1), (OC-6-11)-</name>
+<name>Ferrate(4-), hexakis(cyano-kappaC)-, iron(3+) potassium (1:1:1), (OC-6-11)-</name>
+<name>Terphenyl</name>
+<name>3(2H)-Isothiazolone, 5-chloro-2-methyl-</name>
+<name>Acetic acid ethenyl ester, polymer with ethene and ethenol</name>
+<name>Octadecanamide, N-[2-(2-heptadecyl-4,5-dihydro-1H-imidazol-1-yl)ethyl]-</name>
+<name>Carbonochloridic acid, hexadecyl ester</name>
+<name>1,2-Benzisothiazol-3(2H)-one</name>
+<name>Hexanedioic acid, diisotridecyl ester</name>
+<name>Phosphoric acid, methylphenyl diphenyl ester</name>
+<name>Oxirane, [(methylphenoxy)methyl]-</name>
+<name>Benzene, 1,1'-methylenebis[isocyanato-</name>
+<name>Benzene, 1,3-diisocyanatomethyl-</name>
+<name>Phenol, nonyl-, phosphite (3:1)</name>
+<name>Phosphorous acid, isodecyl diphenyl ester</name>
+<name>3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(nonylphenoxy)-</name>
+<name>Isooctane</name>
+<name>Ethene, 1,1'-[oxybis(methylenesulfonyl)]bis-</name>
+<name>Butene, 2-methyl-</name>
+<name>1,2-Benzenedicarboxylic acid, diisodecyl ester</name>
+<name>Neodecanoic acid, oxiranylmethyl ester</name>
+<name>Quinoline, 1,2-dihydro-2,2,4-trimethyl-, homopolymer</name>
+<name>1,2-Benzenediamine, 3-methyl-</name>
+<name>Isononanoic acid</name>
+<name>Neodecanoic acid</name>
+<name>Tricyclodecanedimethanol</name>
+<name>Phenol, thiobis[dodecyl-, calcium salt (1:1)</name>
+<name>8-Oxa-3,5-dithia-4-stannatetradecanoic acid, 10-ethyl-4-[[2-[(2-ethylhexyl)oxy]-2-oxoethyl]thio]-4-octyl-7-oxo-, 2-ethylhexyl ester</name>
+<name>Benzenesulfonic acid, dodecyl-</name>
+<name>Hexanedioic acid, diisodecyl ester</name>
+<name>Carbonodithioic acid, O-pentyl ester, potassium salt</name>
+<name>Nonene</name>
+<name>Nitric acid, 2-ethylhexyl ester</name>
+<name>Benzenesulfonic acid, dodecyl-, compd. with 2,2',2''-nitrilotris[ethanol] (1:1)</name>
+<name>Benzenesulfonic acid, 2,2'-([1,1'-biphenyl]-4,4'-diyldi-2,1-ethenediyl)bis-, disodium salt</name>
+<name>Acetamide, N-[4-[(2-hydroxyethyl)sulfonyl]phenyl]-</name>
+<name>Isotridecanol</name>
+<name>Ammonium molybdenum oxide ((NH4)2Mo2O7)</name>
+<name>1,2-Benzenedicarboxylic acid, diisooctyl ester</name>
+<name>Silane, ethenyltrimethoxy-</name>
+<name>Benzene, methyl(phenylmethyl)-</name>
+<name>2-Propenoic acid, 2-methyl-, monoester with 1,2-propanediol</name>
+<name>2-Naphthalenecarboxamide, 4-[[4-(aminocarbonyl)phenyl]azo]-N-(2-ethoxyphenyl)-3-hydroxy-</name>
+<name>Phosphonic acid, (1-hydroxyethylidene)bis-</name>
+<name>Propanoic acid, 2-hydroxy-, calcium salt (2:1), (2S)-</name>
+<name>Benzenesulfonic acid, (1-methylethyl)-, sodium salt</name>
+<name>Benzeneacetic acid, alpha-amino-</name>
+<name>Ethane, 2-chloro-1,1,1,2-tetrafluoro-</name>
+<name>Benzene, 2-chloro-4-isocyanato-1-methyl-</name>
+<name>Cyclohexanemethanamine, 5-amino-1,3,3-trimethyl-</name>
+<name>Diisononyl phthalate</name>
+<name>Zinc, bis(O,O-diisooctyl phosphorodithioato-kappaS,kappaS')-</name>
+<name>Benzenesulfonic acid, 2(or 4)-(1-methylethyl)-</name>
+<name>2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester</name>
+<name>Cyclopentane</name>
+<name>1H-Imidazole</name>
+<name>1H-1,2,4-Triazole</name>
+<name>1,3,5-Triazine-2,4,6(1H,3H,5H)-trione, 1,3-dichloro-, sodium salt</name>
+<name>6-Octen-1-yn-3-ol, 3,7-dimethyl-</name>
+<name>Phosphonic acid, (1-hydroxyethylidene)bis-, sodium salt</name>
+<name>1H-Benzotriazole, 4(or 5)-methyl-</name>
+<name>Cyclododecane</name>
+<name>2-Propenoic acid, 2-[[3-[(1-oxo-2-propenyl)oxy]-2,2-bis[[(1-oxo-2-propenyl)oxy]methyl]propoxy]methyl]-2-[[(1-oxo-2-propenyl)oxy]methyl]-1,3-propanediyl ester</name>
+<name>2-Propenoic acid, isooctyl ester</name>
+<name>Phosphoric acid, isodecyl diphenyl ester</name>
+<name>Benzene, dichloromethyl-</name>
+<name>Acetic acid, oxo-</name>
+<name>Carbonic acid, monopotassium salt</name>
+<name>Hexadecanoic acid, 2-ethylhexyl ester</name>
+<name>D-Gluconic acid, calcium salt (2:1)</name>
+<name>2-Propanol, 1-(2-butoxy-1-methylethoxy)-</name>
+<name>2-Propenoic acid, 2-methyl-, isodecyl ester</name>
+<name>2-Imidazolidinone, 4,5-dihydroxy-1,3-bis(methoxymethyl)-</name>
+<name>9-Octadecenamide, (9Z)-</name>
+<name>Hydrazine</name>
+<name>Oxiranemethanaminium, N,N,N-trimethyl-, chloride</name>
+<name>Ethenesulfonic acid, sodium salt</name>
+<name>Isooctadecanoic acid</name>
+<name>Bicyclo[2.2.1]hept-2-ene, 5-ethenyl-</name>
+<name>Ethane, 2,2-dichloro-1,1,1-trifluoro-</name>
+<name>Pentanamide, N-[5-[[4-[2,4-bis(1,1-dimethylpropyl)phenoxy]-1-oxobutyl]amino]-2-chlorophenyl]-4,4-dimethyl-3-oxo-2-[4-[[4-(phenylmethoxy)phenyl]sulfonyl]phenoxy]-</name>
+<name>1-Anthracenesulfonic acid, 9,10-dihydro-9,10-dioxo-, potassium salt</name>
+<name>Phenol, 3-methyl-4-(methylthio)-</name>
+<name>Phenol, 2,4-bis(1,1-dimethylethyl)-, phosphite (3:1)</name>
+<name>Naphthalene, 1,5-diisocyanato-</name>
+<name>Cyclododecane, 1,2,5,6,9,10-hexabromo-</name>
+<name>2,5-Furandione, 3-(hexadecenyl)dihydro-</name>
+<name>Cyclohexanol, 4-(1,1-dimethylethyl)-, acetate</name>
+<name>Tetradecanoic acid, tetradecyl ester</name>
+<name>Benzene, 1,1'-oxybis-, octabromo deriv.	</name>
+<name>1H-Isoindole-1,3(2H)-dione, 2,2'-(1,2-ethanediyl)bis[4,5,6,7-tetrabromo-</name>
+<name>Propanal, 3-(methylthio)-</name>
+<name>Ethene, 1,1'-[methylenebis(sulfonyl)]bis-</name>
+<name>Benzene, 1,2-dichloro-4-(trifluoromethyl)-</name>
+<name>Propanoyl chloride, 2,2-dimethyl-</name>
+<name>Benzene, 1-isocyanato-3-(trifluoromethyl)-</name>
+<name>2-Propenoic acid, 2-methyl-, 2-ethyl-2-[[(2-methyl-1-oxo-2-propenyl)oxy]methyl]-1,3-propanediyl ester</name>
+<name>Urea, N'-(3,4-dichlorophenyl)-N,N-dimethyl-</name>
+<name>Urea, N'-(3,4-dichlorophenyl)-N-methoxy-N-methyl-</name>
+<name>Hexanoic acid, 3,5,5-trimethyl-</name>
+<name>1,2,4-Benzenetricarboxylic acid, tris(2-ethylhexyl) ester</name>
+<name>Hexanedioic acid, compd. with 1,6-hexanediamine (1:1)</name>
+<name>1-Propanaminium, 3-chloro-2-hydroxy-N,N,N-trimethyl-, chloride</name>
+<name>Phosphorothioic acid, O,O-diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester</name>
+<name>Carbonic acid, nickel(2+) salt (1:1)</name>
+<name>Decanoic acid</name>
+<name>Hexanedioic acid, diisononyl ester</name>
+<name>Antimonate (Sb(OH)61-), sodium, (OC-6-11)-</name>
+<name>1-Hexanol, 3,5,5-trimethyl-</name>
+<name>Propanol, 1(or 2)-(2-methoxymethylethoxy)-</name>
+<name>Benzene, 1,3-dichloro-5-isocyanato-</name>
+<name>3H-Pyrazol-3-one, 4,4'-[(3,3'-dichloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[2,4-dihydro-5-methyl-2-phenyl-</name>
+<name>Methane, bromochlorodifluoro-</name>
+<name>Ethane, pentafluoro-</name>
+<name>Stannane, dichlorodioctyl-</name>
+<name>Stannane, tetraoctyl-</name>
+<name>Benzenesulfonamide, N-butyl-</name>
+<name>beta-Alanine, calcium salt (2:1)</name>
+<name>1,2-Benzenedicarboxylic acid, diundecyl ester</name>
+<name>2,2'-Bipyridine</name>
+<name>1-Hexadecanol</name>
+<name>Hexanoyl chloride, 3,5,5-trimethyl-</name>
+<name>4-Piperidinamine, 2,2,6,6-tetramethyl-</name>
+<name>9-Octadecenoic acid (9Z)-, decyl ester</name>
+<name>Benzenamine, ar-nonyl-N-(nonylphenyl)-</name>
+<name>2,4,6(1H,3H,5H)-Pyrimidinetrione, 5,5'-(1H-isoindole-1,3(2H)-diylidene)bis-</name>
+<name>Benzenesulfonic acid, 2,2'-(1,2-ethenediyl)bis[5-nitro-, disodium salt</name>
+<name>Benzenesulfonic acid, 2,2'-(1,2-ethenediyl)bis[5-[[4-chloro-6-(phenylamino)-1,3,5-triazin-2-yl]amino]-, disodium salt</name>
+<name>Calcium magnesium oxide</name>
+<name>1,3,5-Triazine-2,4,6(1H,3H,5H)-trione, 1,3,5-tris(6-isocyanatohexyl)-</name>
+<name>1,2,4-Butanetricarboxylic acid, 2-phosphono-</name>
+<name>Phosphoric acid, 2,2-bis(chloromethyl)-1,3-propanediyl tetrakis(2-chloroethyl) ester</name>
+<name>Chloric acid, potassium salt</name>
+<name>Naphthalene, bis(1-methylethyl)-</name>
+<name>Ethanone, 1-[4-(2-methylpropyl)phenyl]-</name>
+<name>Acetic acid, chloro-, sodium salt</name>
+<name>Aluminum chloride hydroxide sulfate</name>
+<name>Benzene, 2-chloro-1,3-dinitro-5-(trifluoromethyl)-</name>
+<name>Tungsten oxide</name>
+<name>Calcium magnesium hydroxide (CaMg(OH)4)</name>
+<name>Phosphorothioic trichloride</name>
+<name>Benzeneacetyl chloride, alpha-amino-, hydrochloride, (alphaR)-</name>
+<name>Neodecanoyl chloride</name>
+<name>Imidodicarbonic diamide, N,N',2-tris(6-isocyanatohexyl)-</name>
+<name>3,16-Dioxa-8,9,10,11-tetrathia-4,15-disilaoctadecane, 4,4,15,15-tetraethoxy-</name>
+<name>Propanoic acid, calcium salt</name>
+<name>Phenol, 4-(2,4-dichlorophenoxy)-</name>
+<name>Silicon carbide (SiC)</name>
+<name>Cyclohexane, 5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethyl-</name>
+<name>Butanamide, 2-chloro-N-methyl-3-oxo-</name>
+<name>Decanedioic acid, bis(1,2,2,6,6-pentamethyl-4-piperidinyl) ester</name>
+<name>2-Butenal</name>
+<name>Cyanamide</name>
+<name>Carbonochloridic acid, 4-(1,1-dimethylethyl)cyclohexyl ester</name>
+<name>Zinc, bis[O,O-bis(2-ethylhexyl) phosphorodithioato-kappaS,kappaS']-, (T-4)-</name>
+<name>1-Propanaminium, N-(carboxymethyl)-N,N-dimethyl-3-[(1-oxododecyl)amino]-, inner salt</name>
+<name>2-Propenoic acid, (1-methyl-1,2-ethanediyl)bis[oxy(methyl-2,1-ethanediyl)] ester</name>
+<name>Glycine, N-methyl-, monosodium salt</name>
+<name>4-Morpholinecarboxaldehyde</name>
+<name>Butanamide, N-(4-chloro-2,5-dimethoxyphenyl)-3-oxo-</name>
+<name>1-Butanol, 3-methoxy-, acetate</name>
+<name>Benzene, octadecyl-</name>
+<name>2-Methoxy-3,4-dihydro-2H-pyran</name>
+<name>Ethanaminium, N,N,N-trimethyl-2-[(1-oxo-2-propenyl)oxy]-, chloride</name>
+<name>1-Propanaminium, N,N,N-trimethyl-3-[(1-oxo-2-propenyl)amino]-, chloride</name>
+<name>Pentanedinitrile, 2-methyl-</name>
+<name>Guanidine, cyano-</name>
+<name>D-Fructose, 4-O-beta-D-galactopyranosyl-</name>
+<name>Ethenone</name>
+<name>Hexanoic acid, 6-[methyl(phenylsulfonyl)amino]-</name>
+<name>Carbonic acid calcium salt (1:1)</name>
+<name>1,3,5-Triazine-1,3,5(2H,4H,6H)-triethanol</name>
+<name>Bicyclo[3.1.1]heptane, 2,6,6-trimethyl-</name>
+<name>3H-Pyrazol-3-one, 1,2-dihydro-1,5-dimethyl-4-(1-methylethyl)-2-phenyl-</name>
+<name>2-Propenoic acid, 2-phenoxyethyl ester</name>
+<name>3H-Indol-3-one, 2-(1,3-dihydro-3-oxo-2H-indol-2-ylidene)-1,2-dihydro-</name>
+<name>1,5,9-Cyclododecatriene</name>
+<name>1,2-Benzenediamine, 4-methyl-</name>
+<name>Carbonic acid disodium salt</name>
+<name>Phenol, 2,4-bis(1,1-dimethylethyl)-5-methyl-</name>
+<name>2-Benzothiazolesulfenamide, N,N-dicyclohexyl-</name>
+<name>Formaldehyde</name>
+<name>Guanidine, monohydrochloride</name>
+<name>Benzene, 1,1'-(2,2,2-trichloroethylidene)bis[4-chloro-</name>
+<name>Benzoic acid, 2-(acetyloxy)-</name>
+<name>L-Ascorbic acid</name>
+<name>2-Oxepanone</name>
+<name>2-Pentadecanone, 6,10,14-trimethyl-</name>
+<name>Ethanaminium, N,N,N-trimethyl-2-[(2-methyl-1-oxo-2-propenyl)oxy]-, chloride</name>
+<name>1,3-Pentadiene</name>
+<name>1-Hexadecen-3-ol, 3,7,11,15-tetramethyl-</name>
+<name>1,3-Dioxepane</name>
+<name>1-Tetracosanol</name>
+<name>Carbonic acid, diammonium salt</name>
+<name>Guanidine, mononitrate</name>
+<name>2H-1,3,5-Oxadiazine-2,4,6(3H,5H)-trione, 3,5-bis(6-isocyanatohexyl)-</name>
+<name>Glycine, N,N-bis(carboxymethyl)-, trisodium salt</name>
+<name>Benzaldehyde, 2-hydroxy-5-nonyl-, oxime</name>
+<name>Silane, (3-chloropropyl)triethoxy-</name>
+<name>Neodecanoic acid, ethenyl ester</name>
+<name>Butanamide, 2,2'-[(3,3'-dichloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[N-(2,4-dimethylphenyl)-3-oxo-</name>
+<name>Benzenesulfonic acid, 3-(diethylamino)-, sodium salt</name>
+<name>Cyclohexane, 1,1'-methylenebis[4-isocyanato-</name>
+<name>C.I. Pigment Yellow 42	</name>
+<name>2-Butene, 2-methyl-</name>
+<name>Carbonic acid, barium salt (1:1)</name>
+<name>2,6-Octadienenitrile, 3,7-dimethyl-</name>
+<name>Benzenesulfonic acid, 4-amino-, monosodium salt</name>
+<name>Benzenesulfonic acid, 5-chloro-2-[(2-hydroxy-1-naphthalenyl)azo]-4-methyl-, barium salt (2:1)</name>
+<name>2-Propenamide, N-[3-(dimethylamino)propyl]-2-methyl-</name>
+<name>1,4-Pentadien-3-ol, 3-methyl-1-(2,6,6-trimethyl-1-cyclohexen-1-yl)-</name>
+<name>Benzene, 1-chloro-4-(trichloromethyl)-</name>
+<name>D-Gluconic acid</name>
+<name>D-Gluconic acid, monosodium salt</name>
+<name>1-Piperidineethanol, 4-hydroxy-2,2,6,6-tetramethyl-</name>
+<name>2-Naphthalenecarboxylic acid, 3-hydroxy-4-[(4-methyl-2-sulfophenyl)azo]-, calcium salt (1:1)</name>
+<name>Decanedioic acid, bis(2,2,6,6-tetramethyl-4-piperidinyl) ester</name>
+<name>Prasterone</name>
+<name>hydrogen peroxide</name>
+<name>Sodium benzoate</name>
+<name>Benzeneacetyl chloride, alpha-amino-, hydrochloride, (alphaS)-</name>
+<name>Hydrazine, (2,4,6-trichlorophenyl)-</name>
+<name>Sulfamic acid</name>
+<name>2H-1,3,5-Thiadiazine-2-thione, tetrahydro-3,5-dimethyl-</name>
+<name>Carbonic acid, sodium salt (2:3)</name>
+<name>1-Dodecanol, 2-octyl-</name>
+<name>1,2-Pentanediol</name>
+<name>Methamphetamine</name>
+<name>Benzene, (2-methylpropyl)-</name>
+<name>2,6-Octadienal, 3,7-dimethyl-</name>
+<name>Formic acid, ammonium salt</name>
+<name>Thiocyanic acid, sodium salt</name>
+<name>Pentane, 2,2,4-trimethyl-</name>
+<name>Cyclopentasiloxane, decamethyl-</name>
+<name>Carbonochloridic acid, ethyl ester</name>
+<name>Benzene, 1,3-dichloro-</name>
+<name>Hexadecanoic acid, calcium salt</name>
+<name>1-Propene, 1,3-dichloro-</name>
+<name>1,3-Cyclopentadiene</name>
+<name>Ethanamine, N,N-diethyl-, sulfate</name>
+<name>Hexanal, 3,5,5-trimethyl-</name>
+<name>Formic acid, calcium salt</name>
+<name>Tetradecanoic acid</name>
+<name>2-Propanol, titanium(4+) salt</name>
+<name>Carbonic acid, magnesium salt (1:1)</name>
+</substances>
